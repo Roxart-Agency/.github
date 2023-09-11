@@ -1,5 +1,5 @@
 ## Cześć 👋
-# Tutaj wrzucamy moduł dla Prestashop! 🧙
+Tutaj wrzucamy moduł dla Prestashop! 🧙
 
 <!--
 
